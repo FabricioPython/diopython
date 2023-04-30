@@ -1,3 +1,6 @@
+# O objetivo foi desenvolver as operações de uma conta banária
+# Saque, depósito, extrato
+# Bem como o processo e atualização das variáveis.
 
 nome_cliente = input("Digite seu nome para começar: ")
 print(f"\nBem vindo {nome_cliente}!,\nVoce já pode movimentar sua conta.")
